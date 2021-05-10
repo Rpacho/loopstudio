@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+  <link rel="stylesheet" href="style.css">
+  
+  <title>Frontend Mentor | Loopstudios landing page</title>
+
+  <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
+  <style>
+    .attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+  </style>
+</head>
+<body>
+  <!-- Hidden Navbar -->
+    <div class="side-bar" id="HiddenNavbar">
+        <div class="heading-hidden-nav">
+          <a href=""><img style="width: 200px;" src="images/logo.svg" alt="logo" class="image-home"> </a>
+          <div class="times" onclick="CloseNav()">&times;</div>
+        </div>
+        
+        <div class="nav-sidebar">
+          <a href="">About</a>
+          <a href="">Careers</a>
+          <a href="">Events</a>
+          <a href="">Products</a>
+          <a href="">Support</a>
+        </div>
+    </div>
+  <div class="section-header">
+    <div class="container">
+      <!-- Navbar -->
+      <div class="nav-bar" id="hamburger">
+        <a href=""><img src="images/logo.svg" alt="logo" class="image-home"></a>
+        <a href="">Support <div class=area-nav-hover></div></a>
+        <a href="">Products <div class=area-nav-hover></div></a>
+        <a href="">Events <div class=area-nav-hover></div></a>
+        <a href="">Careers <div class=area-nav-hover></div></a>
+        <a href="">About <div class=area-nav-hover></div></a>
+        <div class="hamburger" onclick="OpenNav()">
+          <div class="hamburger-icon"></div>
+          <div class="hamburger-icon"></div>
+          <div class="hamburger-icon"></div>
+        </div>
+      </div>
+      <div class="box-container">
+        <div class="content-home">
+          Immersive experiences that deliver
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Second Section -->
+  <section>
+    <div class="container">
+      <div class="interactive-section">
+        <img src="images/mobile/image-interactive.jpg" alt="A man wearing VR" class="image-mobile">
+        <div class="interactive-container">
+          <div class="heading-title">The leader in interactive VR</div>
+          <div class="content">
+            Founded in 2011, Loopstudios has been producing world-class virtual reality 
+            projects for some of the best companies around the globe. Our award-winning 
+            creations have transformed businesses through digital experiences that bind 
+            to their brand.
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- Section Creations-->
+  <section>
+    <div class="container">
+      <div class="section-creation">
+        <div class="heading-title">
+          Our creations
+        </div>
+        <div class="creations-container">
+          <div class="cc-1 box-creation"><div class="back-opacity"></div><div>Deep earth</div></div>
+          <div class="cc-2 box-creation"><div class="back-opacity"></div><div>Night arcade</div></div>
+          <div class="cc-3 box-creation"><div class="back-opacity"></div><div>Soccer team VR</div></div>
+          <div class="cc-4 box-creation"><div class="back-opacity"></div><div>The grid</div></div>
+          <div class="cc-5 box-creation"><div class="back-opacity"></div><div>From up above VR</div></div>
+          <div class="cc-6 box-creation"><div class="back-opacity"></div><div>Pocket borealis</div></div>
+          <div class="cc-7 box-creation"><div class="back-opacity"></div><div>The curiosity</div></div>
+          <div class="cc-8 box-creation"><div class="back-opacity"></div><div>Make it fisheye</div></div>
+        </div>
+        <div class="see-all"><button>See all</button></div>
+      </div>
+    </div>
+  </section>
+  <!-- Section Footer -->
+  <div class="section-footer">
+    <div class="container">
+      <footer>
+        <img src="images/logo.svg" alt="logo" class="image-home">
+        <div class="nav-footer">
+          <a href="">About</a>
+          <a href="">Careers</a>
+          <a href="">Events</a>
+          <a href="">Products</a>
+          <a href="">Support</a>
+        </div>
+
+        <div class="media-icon">
+          <img src="images/icon-facebook.svg" alt="facebook">
+          <img src="images/icon-twitter.svg" alt="twitter">
+          <img src="images/icon-pinterest.svg" alt="pinterest">
+          <img src="images/icon-instagram.svg" alt="instagram">
+        </div>
+
+        <p class="all-rights">© 2021 Loopstudios. All rights reserved.</p>
+        <p class="attribution">
+          Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+          Coded by <a href="#">Rolando Pacho</a>.
+        </p>
+      </footer>
+    </div>
+    
+
+  </div>
+
+
+  
+
+  <script src="script.js"></script>
+</body>
+</html>
