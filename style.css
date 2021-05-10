@@ -104,7 +104,7 @@ section{
 /*88888888888888888 One Media */
 @media screen and (min-width: 650px) {
     .section-header{
-        background-image: url("http://hololiveminecraft.me/loopstudio/images/desktop/image-hero.jpg");
+        background-image: url("images/desktop/image-hero.jpg");
     }
     .nav-bar a:not(:first-child){
         display: inline;
@@ -219,29 +219,29 @@ section{
     width: 130px;
 }
 .cc-1{
-    background-image: linear-gradient(90deg, rgba(0,0,0,0.5060224773503151) 0%, rgba(9,9,121,0) 100%, rgba(0,212,255,0) 100%), url("http://hololiveminecraft.me/loopstudio/images/mobile/image-deep-earth.jpg");
+    background-image: linear-gradient(90deg, rgba(0,0,0,0.5060224773503151) 0%, rgba(9,9,121,0) 100%, rgba(0,212,255,0) 100%), url("images/mobile/image-deep-earth.jpg");
 }
 
 .cc-2{
-    background-image: linear-gradient(90deg, rgba(0,0,0,0.5060224773503151) 0%, rgba(9,9,121,0) 100%, rgba(0,212,255,0) 100%), url("http://hololiveminecraft.me/loopstudio/images/mobile/image-night-arcade.jpg"),url("/images/mobile/image-night-arcade.jpg");
+    background-image: linear-gradient(90deg, rgba(0,0,0,0.5060224773503151) 0%, rgba(9,9,121,0) 100%, rgba(0,212,255,0) 100%), url("images/mobile/image-night-arcade.jpg"),url("/images/mobile/image-night-arcade.jpg");
 }
 .cc-3{
-    background-image: linear-gradient(90deg, rgba(0,0,0,0.5060224773503151) 0%, rgba(9,9,121,0) 100%, rgba(0,212,255,0) 100%), url("http://hololiveminecraft.me/loopstudio/images/mobile/image-soccer-team.jpg");
+    background-image: linear-gradient(90deg, rgba(0,0,0,0.5060224773503151) 0%, rgba(9,9,121,0) 100%, rgba(0,212,255,0) 100%), url("images/mobile/image-soccer-team.jpg");
 }
 .cc-4{
-    background-image: linear-gradient(90deg, rgba(0,0,0,0.5060224773503151) 0%, rgba(9,9,121,0) 100%, rgba(0,212,255,0) 100%), url("http://hololiveminecraft.me/loopstudio/images/mobile/image-grid.jpg");
+    background-image: linear-gradient(90deg, rgba(0,0,0,0.5060224773503151) 0%, rgba(9,9,121,0) 100%, rgba(0,212,255,0) 100%), url("images/mobile/image-grid.jpg");
 }
 .cc-5{
-    background-image: linear-gradient(90deg, rgba(0,0,0,0.5060224773503151) 0%, rgba(9,9,121,0) 100%, rgba(0,212,255,0) 100%), url("http://hololiveminecraft.me/loopstudio/images/mobile/image-from-above.jpg");
+    background-image: linear-gradient(90deg, rgba(0,0,0,0.5060224773503151) 0%, rgba(9,9,121,0) 100%, rgba(0,212,255,0) 100%), url("images/mobile/image-from-above.jpg");
 }
 .cc-6{
-    background-image: linear-gradient(90deg, rgba(0,0,0,0.5060224773503151) 0%, rgba(9,9,121,0) 100%, rgba(0,212,255,0) 100%), url("http://hololiveminecraft.me/loopstudio/images/mobile/image-pocket-borealis.jpg");
+    background-image: linear-gradient(90deg, rgba(0,0,0,0.5060224773503151) 0%, rgba(9,9,121,0) 100%, rgba(0,212,255,0) 100%), url("images/mobile/image-pocket-borealis.jpg");
 }
 .cc-7{
-    background-image: linear-gradient(90deg, rgba(0,0,0,0.5060224773503151) 0%, rgba(9,9,121,0) 100%, rgba(0,212,255,0) 100%), url("http://hololiveminecraft.me/loopstudio/images/mobile/image-curiosity.jpg");
+    background-image: linear-gradient(90deg, rgba(0,0,0,0.5060224773503151) 0%, rgba(9,9,121,0) 100%, rgba(0,212,255,0) 100%), url("images/mobile/image-curiosity.jpg");
 }
 .cc-8{
-    background-image: linear-gradient(90deg, rgba(0,0,0,0.5060224773503151) 0%, rgba(9,9,121,0) 100%, rgba(0,212,255,0) 100%), url("http://hololiveminecraft.me/loopstudio/images/mobile/image-fisheye.jpg");
+    background-image: linear-gradient(90deg, rgba(0,0,0,0.5060224773503151) 0%, rgba(9,9,121,0) 100%, rgba(0,212,255,0) 100%), url("images/mobile/image-fisheye.jpg");
 }
 
 .see-all {
@@ -364,30 +364,30 @@ footer div img{
     }
 
     .cc-1{
-    background-image: linear-gradient(6deg, rgba(0,0,0,0.5060224773503151) 0%, rgba(9,9,121,0) 100%, rgba(0,212,255,0) 100%), url("http://hololiveminecraft.me/loopstudio/images/desktop/image-deep-earth.jpg");
+    background-image: linear-gradient(6deg, rgba(0,0,0,0.5060224773503151) 0%, rgba(9,9,121,0) 100%, rgba(0,212,255,0) 100%), url("images/desktop/image-deep-earth.jpg");
     }
 
     .cc-2{
-        background-image: linear-gradient(6deg, rgba(0,0,0,0.5060224773503151) 0%, rgba(9,9,121,0) 100%, rgba(0,212,255,0) 100%), url("http://hololiveminecraft.me/loopstudio/images/desktop/image-night-arcade.jpg");
+        background-image: linear-gradient(6deg, rgba(0,0,0,0.5060224773503151) 0%, rgba(9,9,121,0) 100%, rgba(0,212,255,0) 100%), url("images/desktop/image-night-arcade.jpg");
     }
     .cc-3{
-        background-image: linear-gradient(6deg, rgba(0,0,0,0.5060224773503151) 0%, rgba(9,9,121,0) 100%, rgba(0,212,255,0) 100%), url("http://hololiveminecraft.me/loopstudio/images/desktop/image-soccer-team.jpg");
+        background-image: linear-gradient(6deg, rgba(0,0,0,0.5060224773503151) 0%, rgba(9,9,121,0) 100%, rgba(0,212,255,0) 100%), url("images/desktop/image-soccer-team.jpg");
     }
     .cc-4{
-        background-image: linear-gradient(6deg, rgba(0,0,0,0.5060224773503151) 0%, rgba(9,9,121,0) 100%, rgba(0,212,255,0) 100%), url("http://hololiveminecraft.me/loopstudio/images/desktop/image-grid.jpg");
+        background-image: linear-gradient(6deg, rgba(0,0,0,0.5060224773503151) 0%, rgba(9,9,121,0) 100%, rgba(0,212,255,0) 100%), url("images/desktop/image-grid.jpg");
         word-spacing: 100vh;
     }
     .cc-5{
-        background-image: linear-gradient(6deg, rgba(0,0,0,0.5060224773503151) 0%, rgba(9,9,121,0) 100%, rgba(0,212,255,0) 100%), url("http://hololiveminecraft.me/loopstudio/images/desktop/image-from-above.jpg");
+        background-image: linear-gradient(6deg, rgba(0,0,0,0.5060224773503151) 0%, rgba(9,9,121,0) 100%, rgba(0,212,255,0) 100%), url("images/desktop/image-from-above.jpg");
     }
     .cc-6{
-        background-image: linear-gradient(6deg, rgba(0,0,0,0.5060224773503151) 0%, rgba(9,9,121,0) 100%, rgba(0,212,255,0) 100%), url("http://hololiveminecraft.me/loopstudio/images/desktop/image-pocket-borealis.jpg");
+        background-image: linear-gradient(6deg, rgba(0,0,0,0.5060224773503151) 0%, rgba(9,9,121,0) 100%, rgba(0,212,255,0) 100%), url("images/desktop/image-pocket-borealis.jpg");
     }
     .cc-7{
-        background-image: linear-gradient(6deg, rgba(0,0,0,0.5060224773503151) 0%, rgba(9,9,121,0) 100%, rgba(0,212,255,0) 100%), url("http://hololiveminecraft.me/loopstudio/images/desktop/image-curiosity.jpg");
+        background-image: linear-gradient(6deg, rgba(0,0,0,0.5060224773503151) 0%, rgba(9,9,121,0) 100%, rgba(0,212,255,0) 100%), url("images/desktop/image-curiosity.jpg");
     }
     .cc-8{
-        background-image: linear-gradient(6deg, rgba(0,0,0,0.5060224773503151) 0%, rgba(9,9,121,0) 100%, rgba(0,212,255,0) 100%), url("http://hololiveminecraft.me/loopstudio/images/desktop/image-fisheye.jpg");
+        background-image: linear-gradient(6deg, rgba(0,0,0,0.5060224773503151) 0%, rgba(9,9,121,0) 100%, rgba(0,212,255,0) 100%), url("images/desktop/image-fisheye.jpg");
     }
 
     footer{
